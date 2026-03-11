@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_profile_banner.png" alt="Banner" width="50%" />
+  <img src="github_profile_banner.png" alt="Banner" width="25%" />
 </p>
 
 # Hi there, I'm Rakesh Gollapalli 👋
