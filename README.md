@@ -41,7 +41,11 @@ I specialize in building robust CI/CD pipelines, automating infrastructure, and 
 ---
 
 ### 🐍 Contribution Activity
-![Snake Animation](https://github.com/rakeshgollapalli8/rakeshgollapalli8/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakeshgollapalli8/rakeshgollapalli8/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakeshgollapalli8/rakeshgollapalli8/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rakeshgollapalli8/rakeshgollapalli8/output/github-snake.svg">
+</picture>
 
 ---
 
