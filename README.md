@@ -101,6 +101,13 @@ I specialize in building robust CI/CD pipelines, automating infrastructure, and 
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Connect with Me
 - **LinkedIn**: [Rakesh Gollapalli](https://www.linkedin.com/in/rakeshgollapalli/)
 - **Email**: [rakesh.gollapalli5@gmail.com](mailto:rakesh.gollapalli5@gmail.com)
