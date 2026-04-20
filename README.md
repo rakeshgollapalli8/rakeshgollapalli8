@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="github_profile_banner.png" alt="Banner" width="25%" />
-</p>
-
-<p align="center">
   <img src="https://profile-counter.glitch.me/rakeshgollapalli8/count.svg" alt="Visitor Count" />
 </p>
 
