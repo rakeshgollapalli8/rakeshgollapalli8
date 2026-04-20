@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rakesh%20Gollapalli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Python%20Developer%20%7C%20FinTech%20Enthusiast&descAlignY=55&descSize=16" alt="Header Banner" />
+</p>
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/rakeshgollapalli8/count.svg" alt="Visitor Count" />
 </p>
 
@@ -83,7 +87,7 @@ I specialize in building robust CI/CD pipelines, automating infrastructure, and 
 
 ### 🔥 GitHub Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshgollapalli8&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rakeshgollapalli8&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
