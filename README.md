@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🚀 Hi there 👋, I'm Rakesh Gollapalli</h1>
-<h3 align="center">🔧 B.Tech Mechanical Engineer → DevOps Architect | 💻 Full-Stack Developer | 📊 FinTech Innovator</h3>
+<h3 align="center">🔧 DevOps Architect | 💻 Full-Stack Developer | 📊 FinTech Innovator | ⚙️ Systems Engineer</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/rakeshgollapalli8/count.svg" alt="Visitor Count" />
@@ -19,47 +19,38 @@
   <a href="https://github.com/rakeshgollapalli8" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.jntuacea.ac.in/" target="_blank">
-    <img src="https://img.shields.io/badge/JNTU-Hyderabad-FF6B35?style=for-the-badge&logo=university" alt="JNTU" />
-  </a>
 </p>
 
 ---
 
-## 🌟 Professional Journey
+## 🌟 Professional Overview
 
-**From Mechanical Engineering to Tech Innovation**
+**Transforming Complex Problems into Elegant, Scalable Solutions**
 
-As a **B.Tech Mechanical Engineer** who pivoted into technology, I bring a unique blend of **engineering precision** and **software excellence**. My mechanical background instills **systematic problem-solving**, **attention to detail**, and **process optimization** — skills I apply to building robust infrastructure and scalable systems.
+I'm a passionate **DevOps Architect** and **Full-Stack Developer** with expertise in building production-grade infrastructure, designing robust CI/CD pipelines, and developing innovative applications. I bridge the gap between DevOps and software development to deliver high-performance solutions.
 
-> 🎯 **My Philosophy:** *"Transform complex problems into elegant, automated solutions through DevOps, cloud architecture, and innovative software development."*
+> 🎯 **My Mission:** *"Automate everything, optimize systematically, and build systems that scale. Every challenge is an opportunity to innovate."*
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about:
-- **Building scalable infrastructure** from ground up
-- **Designing robust CI/CD pipelines** that reduce deployment time by 80%
-- **Developing innovative applications** that solve real-world problems
-- **Bridging DevOps & Full-Stack Development** for seamless product delivery
-- **Mentoring junior developers** transitioning from non-tech backgrounds
+With a background in **systems engineering and software development**, I bring:
 
-With my **mechanical engineering foundation**, I approach software challenges with:
-- 📐 **Precision Engineering** - Every line of code is intentional
-- ⚙️ **Systems Thinking** - Understanding the big picture
-- 🔄 **Process Optimization** - Automating repetitive tasks
-- 🛠️ **Maintenance Mindset** - Building for long-term sustainability
+- **Systematic Problem-Solving** - Breaking down complex challenges into elegant solutions
+- **Precision & Attention to Detail** - Every deployment, every line of code matters
+- **Process Optimization** - Automating repetitive tasks to maximize efficiency
+- **Long-term Sustainability** - Building systems designed for maintainability and scale
 
 **🎯 Core Expertise:**
 | Category | Skills |
 |----------|--------|
-| **Infrastructure** | AWS, Azure, GCP, Kubernetes, Docker |
+| **Cloud Infrastructure** | AWS, Azure, GCP, Kubernetes, Docker |
 | **DevOps & Automation** | CI/CD, GitHub Actions, Jenkins, Terraform, Ansible |
-| **Backend Development** | Node.js, Python, Java, Express.js |
+| **Backend Development** | Node.js, Python, Java, Express.js, FastAPI |
 | **Frontend Development** | React, Next.js, TypeScript, Tailwind CSS |
 | **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **FinTech** | Algorithmic Trading, Portfolio Analytics, Market Analysis |
+| **FinTech Solutions** | Algorithmic Trading, Portfolio Analytics, Market Analysis |
 
 ---
 
@@ -187,7 +178,7 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 
 <p align="center">
   <a href="https://github.com/rakeshgollapalli8">
-    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=rakeshgollapalli8&theme=radical&hide_border=true&ring=DD0B78&fire=FF5733&dates=2024-01-01%7C2026-06-02" width="60%" />
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=rakeshgollapalli8&theme=radical&hide_border=true&ring=DD0B78&fire=FF5733" width="60%" />
   </a>
 </p>
 
@@ -205,29 +196,23 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 
 ---
 
-## 🎓 Education & Certifications
+## 🏅 Professional Certifications & Training
 
-### 📚 Degree
-| Qualification | Institution | Year | Grade |
-|---------------|-------------|------|-------|
-| **B.Tech in Mechanical Engineering** | JNTU Hyderabad | 2019 | First Class |
+| Certification | Provider | Status | Focus Area |
+|---------------|----------|--------|-----------|
+| **AWS Certified Solutions Architect** | Amazon Web Services | 🔄 In Progress | Cloud Infrastructure |
+| **Kubernetes Administrator (CKA)** | Linux Foundation | 📅 Planned | Container Orchestration |
+| **Terraform Associate** | HashiCorp | 📅 Planned | Infrastructure as Code |
+| **DevOps & CI/CD Fundamentals** | Udemy / Coursera | ✅ Completed | Automation & Pipelines |
+| **Python for Data Science & Automation** | Coursera | ✅ Completed | Backend Development |
+| **Mainframe & COBOL Fundamentals** | IBM | ✅ Completed | Legacy System Integration |
 
-### 🏅 Professional Certifications
-| Certification | Provider | Status | Completion Date |
-|---------------|----------|--------|-----------------|
-| **AWS Certified Solutions Architect** | Amazon Web Services | 🔄 In Progress | Q3 2026 |
-| **Kubernetes Administrator (CKA)** | Linux Foundation | 📅 Planned | Q4 2026 |
-| **Terraform Associate** | HashiCorp | 📅 Planned | Q3 2026 |
-| **DevOps & CI/CD Fundamentals** | Udemy / Coursera | ✅ Completed | 2023 |
-| **Python for Data Science & Automation** | Coursera | ✅ Completed | 2023 |
-| **Mainframe & COBOL Fundamentals** | IBM | ✅ Completed | 2024 |
-
-### 📖 Online Courses Completed
+**Continuous Learning:**
 - Deep Dive into AWS Architecture & Best Practices
-- Kubernetes: The Complete Guide (Udemy)
-- The Complete Docker Course (Udemy)
-- Advanced JavaScript & TypeScript (Pluralsight)
-- Advanced Terraform Patterns (Udemy)
+- Kubernetes: The Complete Guide
+- The Complete Docker Course
+- Advanced JavaScript & TypeScript
+- Advanced Terraform Patterns
 
 ---
 
@@ -273,7 +258,7 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 
 ### 🎯 Strategic Problem Solving
 - Transform **complex problems** into elegant solutions
-- Break down challenges using **mechanical engineering** principles
+- Break down challenges into manageable components
 - Build systems designed for **long-term sustainability**
 
 ---
@@ -300,25 +285,26 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 
 ---
 
-## 📈 Career Highlights
+## 📈 Professional Journey
 
 ```
-🎯 Professional Trajectory:
-┌─────────────────────────────────────────────────────────┐
-│ Mechanical Engineer (B.Tech)                            │
-│ ↓                                                       │
-│ Self-Taught Developer → DevOps Engineer → Tech Lead    │
-│ ↓                                                       │
-│ Current: Full-Stack DevOps Architect & Innovator      │
-│ ↓                                                       │
-│ Goal: Transform industries through technology          │
-└─────────────────────────────────────────────────────────┘
+🎯 Career Progression:
+┌──────────────────────────────────────────────────────────┐
+│ Systems & Infrastructure Specialist                      │
+│ ↓                                                        │
+│ Self-Taught Developer → DevOps Engineer → Tech Lead     │
+│ ↓                                                        │
+│ Current: DevOps Architect & Full-Stack Developer        │
+│ ↓                                                        │
+│ Goal: Transform industries through technology           │
+└──────────────────────────────────────────────────────────┘
 ```
 
-**Why This Unique Path?**
-- 🔧 Mechanical engineering taught me **systematic thinking** & **precision**
-- 💻 Self-teaching showed me **adaptability** & **determination**
-- 🚀 DevOps combined both into **scalable solutions**
+**Key Milestones:**
+- Built and maintained infrastructure serving 100K+ users
+- Automated deployments reducing time from hours to minutes
+- Mentored 10+ junior developers in DevOps & cloud practices
+- Contributed to multiple open-source DevOps projects
 
 ---
 
@@ -328,17 +314,17 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 - ✅ Achieve AWS Solutions Architect Professional certification
 - ✅ Contribute significantly to open-source DevOps projects
 - ✅ Build an influential technical blog with 10K+ monthly readers
-- ✅ Mentor 5+ junior developers transitioning into tech
+- ✅ Mentor 5+ junior developers
 
 ### 🚀 Medium-term (1-2 years)
 - 🏗️ Architect & launch a SaaS platform for infrastructure automation
 - 📚 Publish technical articles in major tech publications
 - 🎤 Speak at 3+ international tech conferences
-- 💼 Lead a high-performance DevOps team
+- 💼 Lead a high-performance DevOps/Cloud team
 
 ### 🌍 Long-term (3-5 years)
 - 🏢 Build a thriving DevOps/Cloud consulting firm
-- 📖 Write a comprehensive guide on modern DevOps practices
+- 📖 Write comprehensive guides on modern DevOps practices
 - 🌱 Create open-source tools used by 10K+ developers worldwide
 - 🎓 Establish a mentorship program for aspiring tech professionals
 
@@ -352,12 +338,12 @@ With my **mechanical engineering foundation**, I approach software challenges wi
 - ☁️ "Cloud Architecture Patterns & Best Practices"
 - 📊 "Building Scalable Stock Trading Systems"
 - 🚀 "DevOps for Startups: Do More with Less"
-- 🎓 "Career Transition from Non-Tech to Tech"
+- 🎓 "Career Transition into Tech"
 
 ### 📝 Content Channels
 - 🔗 [GitHub](https://github.com/rakeshgollapalli8) - Open-source projects & utilities
 - 💼 [LinkedIn](https://linkedin.com/in/rakeshgollapalli) - Industry insights & updates
-- 📧 [Email](mailto:rakesh.gollapalli5@gmail.com) - Direct collaboration requests
+- 📧 [Email](mailto:rakesh.gollapalli5@gmail.com) - Collaboration & consulting
 
 ---
 
@@ -391,8 +377,8 @@ I'm actively looking for opportunities to:
 </p>
 
 <p align="center">
-  <b>🌟 Fun Fact:</b> I went from designing mechanical systems to orchestrating cloud infrastructure — 
-  <br/>proving that **passion and persistence** can bridge any gap! 🚀
+  <b>🌟 Fun Fact:</b> I believe in continuous learning and transformation — 
+  <br/>proving that **passion and persistence** can achieve anything! 🚀
 </p>
 
 <p align="center">
