@@ -106,8 +106,15 @@ Reusable CI/CD automation scripts and infrastructure utilities. **Tech:** Python
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshgollapalli8&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshgollapalli8&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <a href="https://github.com/rakeshgollapalli8">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rakeshgollapalli8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rakeshgollapalli8">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshgollapalli8&layout=compact&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -115,7 +122,9 @@ Reusable CI/CD automation scripts and infrastructure utilities. **Tech:** Python
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshgollapalli8&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/rakeshgollapalli8">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rakeshgollapalli8&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -123,7 +132,9 @@ Reusable CI/CD automation scripts and infrastructure utilities. **Tech:** Python
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakeshgollapalli8&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/rakeshgollapalli8">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=rakeshgollapalli8&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  </a>
 </p>
 
 ---
